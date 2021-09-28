@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarFleetLib
 {
-    class Company
+    public class Company
     {
         #region private attributes
         private string name;
@@ -14,9 +14,11 @@ namespace CarFleetLib
         private string city;
         private string phoneNumber;
         private string email;
+        private List<Car> cars;
+        private List<Driver> drivers;
         #endregion private attributes
         #region constructor
-        public Company(string name, string address, string city, string phoneNumber, string email)
+        public Company(string name, string address, string city, string phoneNumber, string email, List<Car> cars = null, List<Driver> drivers = null)
         {
 
         }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarFleetLib
 {
-    class Driver
+    public class Driver
     {
         #region private attributes
         private string firstname;
