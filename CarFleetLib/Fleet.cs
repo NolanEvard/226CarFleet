@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarFleetLib
 {
-    public class Company
+    public class Fleet
     {
         #region private attributes
         private string name;
@@ -18,10 +18,16 @@ namespace CarFleetLib
         private List<Driver> drivers;
         #endregion private attributes
         #region constructor
-        public Company(string name, string address, string city, string phoneNumber, string email, List<Car> cars = null, List<Driver> drivers = null)
+        public Fleet(string name, string address, string city, string phoneNumber, string email, List<Car> cars = null, List<Driver> drivers = null)
         {
 
         }
         #endregion constructor
+        #region public methods
+        public int DistanceAverageByDriver(int cars)
+        {
+            throw new NotImplementedException();
+        }
+        #endregion public methods
     }
 }
