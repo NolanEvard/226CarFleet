@@ -17,9 +17,14 @@ namespace CarFleetLib
         private string workingArea;
         #endregion private attributes
         #region constructor
-        public Driver(string firstname, string lastname, string phoneNumber, string mail, string language = "", string workingArea = "")
+        public Driver(string Firstname, string Lastname, string PhoneNumber, string Mail, string Language = "", string WorkingArea = "")
         {
-
+            firstname = Firstname;
+            lastname = Lastname;
+            phoneNumber = PhoneNumber;
+            mail = Mail;
+            language = Language;
+            workingArea = WorkingArea;
         }
         #endregion constructor
     }

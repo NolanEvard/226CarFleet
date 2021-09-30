@@ -15,18 +15,27 @@ namespace CarFleetLib
         private string phoneNumber;
         private string email;
         private List<Car> cars;
-        private List<Driver> drivers;
         #endregion private attributes
         #region constructor
-        public Fleet(string name, string address, string city, string phoneNumber, string email, List<Car> cars = null, List<Driver> drivers = null)
+        public Fleet(string Name, string Address, string City, string PhoneNumber, string Email, List<Car> Cars = null)
         {
-
+            name = Name;
+            address = Address;
+            city = City;
+            phoneNumber = PhoneNumber;
+            email = Email;
+            cars = Cars;
         }
         #endregion constructor
         #region public methods
-        public int DistanceAverageByDriver(int cars)
+        public int DistanceAverageByDriver(int Cars)
         {
-            throw new NotImplementedException();
+            int sumDist = 0;
+            foreach (Car car in cars)
+            {
+                sumDist += car.Distance();
+            }
+            return sumDist / Cars;
         }
         #endregion public methods
     }

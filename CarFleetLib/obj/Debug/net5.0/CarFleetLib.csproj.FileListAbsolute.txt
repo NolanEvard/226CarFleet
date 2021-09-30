@@ -10,3 +10,15 @@ C:\Users\Nolan.EVARD\Documents\ICT-226a\CarFleet\CarFleetLib\obj\Debug\net5.0\Ca
 C:\Users\Nolan.EVARD\Documents\ICT-226a\CarFleet\CarFleetLib\obj\Debug\net5.0\CarFleetLib.dll
 C:\Users\Nolan.EVARD\Documents\ICT-226a\CarFleet\CarFleetLib\obj\Debug\net5.0\ref\CarFleetLib.dll
 C:\Users\Nolan.EVARD\Documents\ICT-226a\CarFleet\CarFleetLib\obj\Debug\net5.0\CarFleetLib.pdb
+C:\Users\Nolan.EVARD\Documents\ICT-226a\226CarFleet\CarFleetLib\bin\Debug\net5.0\CarFleetLib.deps.json
+C:\Users\Nolan.EVARD\Documents\ICT-226a\226CarFleet\CarFleetLib\bin\Debug\net5.0\CarFleetLib.dll
+C:\Users\Nolan.EVARD\Documents\ICT-226a\226CarFleet\CarFleetLib\bin\Debug\net5.0\ref\CarFleetLib.dll
+C:\Users\Nolan.EVARD\Documents\ICT-226a\226CarFleet\CarFleetLib\bin\Debug\net5.0\CarFleetLib.pdb
+C:\Users\Nolan.EVARD\Documents\ICT-226a\226CarFleet\CarFleetLib\obj\Debug\net5.0\CarFleetLib.csproj.AssemblyReference.cache
+C:\Users\Nolan.EVARD\Documents\ICT-226a\226CarFleet\CarFleetLib\obj\Debug\net5.0\CarFleetLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nolan.EVARD\Documents\ICT-226a\226CarFleet\CarFleetLib\obj\Debug\net5.0\CarFleetLib.AssemblyInfoInputs.cache
+C:\Users\Nolan.EVARD\Documents\ICT-226a\226CarFleet\CarFleetLib\obj\Debug\net5.0\CarFleetLib.AssemblyInfo.cs
+C:\Users\Nolan.EVARD\Documents\ICT-226a\226CarFleet\CarFleetLib\obj\Debug\net5.0\CarFleetLib.csproj.CoreCompileInputs.cache
+C:\Users\Nolan.EVARD\Documents\ICT-226a\226CarFleet\CarFleetLib\obj\Debug\net5.0\CarFleetLib.dll
+C:\Users\Nolan.EVARD\Documents\ICT-226a\226CarFleet\CarFleetLib\obj\Debug\net5.0\ref\CarFleetLib.dll
+C:\Users\Nolan.EVARD\Documents\ICT-226a\226CarFleet\CarFleetLib\obj\Debug\net5.0\CarFleetLib.pdb
