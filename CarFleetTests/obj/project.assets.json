@@ -4969,19 +4969,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nolan\\.nuget\\packages\\": {}
+    "C:\\Users\\Nolan.EVARD\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nolan\\Documents\\Télétravail\\ICT-226\\226CarFleet\\CarFleetTests\\CarFleetTests.csproj",
+      "projectUniqueName": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226a\\226CarFleet\\CarFleetTests\\CarFleetTests.csproj",
       "projectName": "CarFleetTests",
-      "projectPath": "C:\\Users\\Nolan\\Documents\\Télétravail\\ICT-226\\226CarFleet\\CarFleetTests\\CarFleetTests.csproj",
-      "packagesPath": "C:\\Users\\Nolan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nolan\\Documents\\Télétravail\\ICT-226\\226CarFleet\\CarFleetTests\\obj\\",
+      "projectPath": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226a\\226CarFleet\\CarFleetTests\\CarFleetTests.csproj",
+      "packagesPath": "C:\\Users\\Nolan.EVARD\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226a\\226CarFleet\\CarFleetTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nolan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nolan.EVARD\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4995,8 +4995,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Nolan\\Documents\\Télétravail\\ICT-226\\226CarFleet\\CarFleetLib\\CarFleetLib.csproj": {
-              "projectPath": "C:\\Users\\Nolan\\Documents\\Télétravail\\ICT-226\\226CarFleet\\CarFleetLib\\CarFleetLib.csproj"
+            "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226a\\226CarFleet\\CarFleetLib\\CarFleetLib.csproj": {
+              "projectPath": "C:\\Users\\Nolan.EVARD\\Documents\\ICT-226a\\226CarFleet\\CarFleetLib\\CarFleetLib.csproj"
             }
           }
         }
