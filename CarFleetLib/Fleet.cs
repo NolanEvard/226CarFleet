@@ -41,6 +41,16 @@ namespace CarFleetLib
             }
             return sumDist;
         }
+        public List<string> GetDriversEmails()
+        {
+            List<string> listOfEmails = new List<string>();
+            foreach (Car car in cars)
+            {
+                listOfEmails.Add(car.Driver.Mail);
+            }
+            return listOfEmails;
+            //throw new NotImplementedException();
+        }
         #endregion public methods
     }
 }

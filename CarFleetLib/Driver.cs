@@ -27,5 +27,14 @@ namespace CarFleetLib
             workingArea = WorkingArea;
         }
         #endregion constructor
+        #region properties
+        public string Mail
+        {
+            get
+            {
+                return mail;
+            }
+        }
+        #endregion properties
     }
 }

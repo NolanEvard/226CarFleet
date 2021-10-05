@@ -25,7 +25,7 @@ namespace CarFleetTests
                 car = new Car("vd" + i.ToString(), "brand" +i.ToString(), "model" + i.ToString(), "chassisNumber" + i.ToString(), i, driver);
                 testCars.Add(car);
             }
-            fleet = new Fleet("testFleet", "testAddress", "testCity", "+41454565654", "test.email@example.com");
+            fleet = new Fleet("testFleet", "testAddress", "testCity", "+41454565654", "test.email@example.com", testCars);
         }
 
         [Test]
@@ -70,6 +70,21 @@ namespace CarFleetTests
             testCars[0].CurrentMileage = expectedMileage;
             //then
             Assert.AreEqual(expectedMileage, testCars[0].CurrentMileage);
+        }
+        [Test]
+        public void Fleet_GetDriversEmails_Success()
+        {
+            //given
+            List<string> expectedEmails = new List<string>();
+            for (int i = 1; i <= 10; i++)
+            {
+                expectedEmails.Add("mail" + i.ToString());
+            }
+            List<string> actualEmails;
+            //when
+            actualEmails = fleet.GetDriversEmails();
+            //then
+            Assert.AreEqual(expectedEmails, actualEmails);
         }
     }
 }

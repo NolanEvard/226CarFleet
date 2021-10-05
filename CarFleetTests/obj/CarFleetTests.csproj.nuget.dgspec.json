@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nonoe\\Documents\\226CarFleet\\CarFleetTests\\CarFleetTests.csproj": {}
+    "C:\\Users\\Nolan\\Documents\\Télétravail\\ICT-226\\226CarFleet\\CarFleetTests\\CarFleetTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nonoe\\Documents\\226CarFleet\\CarFleetLib\\CarFleetLib.csproj": {
+    "C:\\Users\\Nolan\\Documents\\Télétravail\\ICT-226\\226CarFleet\\CarFleetLib\\CarFleetLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nonoe\\Documents\\226CarFleet\\CarFleetLib\\CarFleetLib.csproj",
+        "projectUniqueName": "C:\\Users\\Nolan\\Documents\\Télétravail\\ICT-226\\226CarFleet\\CarFleetLib\\CarFleetLib.csproj",
         "projectName": "CarFleetLib",
-        "projectPath": "C:\\Users\\nonoe\\Documents\\226CarFleet\\CarFleetLib\\CarFleetLib.csproj",
-        "packagesPath": "C:\\Users\\nonoe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nonoe\\Documents\\226CarFleet\\CarFleetLib\\obj\\",
+        "projectPath": "C:\\Users\\Nolan\\Documents\\Télétravail\\ICT-226\\226CarFleet\\CarFleetLib\\CarFleetLib.csproj",
+        "packagesPath": "C:\\Users\\Nolan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nolan\\Documents\\Télétravail\\ICT-226\\226CarFleet\\CarFleetLib\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\nonoe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Nolan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,25 +54,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\nonoe\\Documents\\226CarFleet\\CarFleetTests\\CarFleetTests.csproj": {
+    "C:\\Users\\Nolan\\Documents\\Télétravail\\ICT-226\\226CarFleet\\CarFleetTests\\CarFleetTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nonoe\\Documents\\226CarFleet\\CarFleetTests\\CarFleetTests.csproj",
+        "projectUniqueName": "C:\\Users\\Nolan\\Documents\\Télétravail\\ICT-226\\226CarFleet\\CarFleetTests\\CarFleetTests.csproj",
         "projectName": "CarFleetTests",
-        "projectPath": "C:\\Users\\nonoe\\Documents\\226CarFleet\\CarFleetTests\\CarFleetTests.csproj",
-        "packagesPath": "C:\\Users\\nonoe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nonoe\\Documents\\226CarFleet\\CarFleetTests\\obj\\",
+        "projectPath": "C:\\Users\\Nolan\\Documents\\Télétravail\\ICT-226\\226CarFleet\\CarFleetTests\\CarFleetTests.csproj",
+        "packagesPath": "C:\\Users\\Nolan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nolan\\Documents\\Télétravail\\ICT-226\\226CarFleet\\CarFleetTests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\nonoe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Nolan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\nonoe\\Documents\\226CarFleet\\CarFleetLib\\CarFleetLib.csproj": {
-                "projectPath": "C:\\Users\\nonoe\\Documents\\226CarFleet\\CarFleetLib\\CarFleetLib.csproj"
+              "C:\\Users\\Nolan\\Documents\\Télétravail\\ICT-226\\226CarFleet\\CarFleetLib\\CarFleetLib.csproj": {
+                "projectPath": "C:\\Users\\Nolan\\Documents\\Télétravail\\ICT-226\\226CarFleet\\CarFleetLib\\CarFleetLib.csproj"
               }
             }
           }
@@ -112,11 +104,11 @@
             },
             "NUnit": {
               "target": "Package",
-              "version": "[3.13.1, )"
+              "version": "[3.13.2, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[3.17.0, )"
+              "version": "[4.0.0, )"
             },
             "coverlet.collector": {
               "target": "Package",
@@ -138,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
