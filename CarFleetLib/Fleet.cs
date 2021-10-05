@@ -31,11 +31,15 @@ namespace CarFleetLib
         public int DistanceAverageByDriver(int Cars)
         {
             int sumDist = 0;
-            foreach (Car car in cars)
+            if (cars != null)
             {
-                sumDist += car.Distance();
+                foreach (Car car in cars)
+                {
+                    sumDist += car.Distance();
+                }
+                 sumDist /= Cars;
             }
-            return sumDist / Cars;
+            return sumDist;
         }
         #endregion public methods
     }
