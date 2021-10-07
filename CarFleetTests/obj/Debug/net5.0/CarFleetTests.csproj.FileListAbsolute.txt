@@ -222,7 +222,6 @@ C:\Users\nonoe\Documents\226CarFleet\CarFleetTests\bin\Debug\net5.0\CarFleetTest
 C:\Users\nonoe\Documents\226CarFleet\CarFleetTests\bin\Debug\net5.0\ref\CarFleetTests.dll
 C:\Users\nonoe\Documents\226CarFleet\CarFleetTests\bin\Debug\net5.0\CarFleetTests.pdb
 C:\Users\nonoe\Documents\226CarFleet\CarFleetTests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\nonoe\Documents\226CarFleet\CarFleetTests\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
 C:\Users\nonoe\Documents\226CarFleet\CarFleetTests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\nonoe\Documents\226CarFleet\CarFleetTests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
 C:\Users\nonoe\Documents\226CarFleet\CarFleetTests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
@@ -232,7 +231,6 @@ C:\Users\nonoe\Documents\226CarFleet\CarFleetTests\bin\Debug\net5.0\Microsoft.Vi
 C:\Users\nonoe\Documents\226CarFleet\CarFleetTests\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\nonoe\Documents\226CarFleet\CarFleetTests\bin\Debug\net5.0\NuGet.Frameworks.dll
 C:\Users\nonoe\Documents\226CarFleet\CarFleetTests\bin\Debug\net5.0\nunit.framework.dll
-C:\Users\nonoe\Documents\226CarFleet\CarFleetTests\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
 C:\Users\nonoe\Documents\226CarFleet\CarFleetTests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Users\nonoe\Documents\226CarFleet\CarFleetTests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\nonoe\Documents\226CarFleet\CarFleetTests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -413,3 +411,4 @@ C:\Users\Nolan\Documents\Télétravail\ICT-226\226CarFleet\CarFleetTests\obj\Deb
 C:\Users\Nolan\Documents\Télétravail\ICT-226\226CarFleet\CarFleetTests\obj\Debug\net5.0\ref\CarFleetTests.dll
 C:\Users\Nolan\Documents\Télétravail\ICT-226\226CarFleet\CarFleetTests\obj\Debug\net5.0\CarFleetTests.pdb
 C:\Users\Nolan\Documents\Télétravail\ICT-226\226CarFleet\CarFleetTests\obj\Debug\net5.0\CarFleetTests.genruntimeconfig.cache
+C:\Users\nonoe\Documents\226CarFleet\CarFleetTests\bin\Debug\net5.0\testcentric.engine.metadata.dll

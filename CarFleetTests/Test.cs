@@ -10,7 +10,7 @@ namespace CarFleetTests
 {
     public class Tests
     {
-        List<Car> testCars = new List<Car>();
+        List<Car> testCars;
         Driver driver;
         Car car;
         Fleet fleet;
@@ -18,8 +18,8 @@ namespace CarFleetTests
         [SetUp]
         public void Setup()
         {
-
-            for(int i = 1; i<=10; i++)
+            testCars = new List<Car>();
+            for (int i = 1; i<=10; i++)
             {
                 driver = new Driver("firstname" + i.ToString(), "lastname" + i.ToString(), "phoneNumber" + i.ToString(), "mail" + i.ToString());
                 car = new Car("vd" + i.ToString(), "brand" +i.ToString(), "model" + i.ToString(), "chassisNumber" + i.ToString(), i, driver);

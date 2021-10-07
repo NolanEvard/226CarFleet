@@ -14,7 +14,7 @@ namespace CarFleetLib
         private Driver driver;
         #endregion private attributes
         #region constructor
-        public Car(string Registration, string Brand, string Model, string ChassisNumber, int InitialMileage, Driver Driver)
+        public Car(string Registration, string Brand, string Model, string ChassisNumber, int InitialMileage, Driver Driver = null)
         {
             initialMileage = InitialMileage;
             currentMileage = initialMileage;
@@ -28,10 +28,6 @@ namespace CarFleetLib
         #region properties
         public int CurrentMileage
         {
-            get
-            {
-                return currentMileage;
-            }
             set
             {
                 currentMileage = value;
